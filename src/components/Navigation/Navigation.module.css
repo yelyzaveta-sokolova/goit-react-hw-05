@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    gap: 16px;
+    background-color: #00ffe13d;
+    padding: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.266);
+    position: relative;
+    margin-bottom: 16px;
+    font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(0, 47, 255);
+}
+
+.active {
+    color: rgb(0, 204, 255);
+}

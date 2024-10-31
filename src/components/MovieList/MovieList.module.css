@@ -1,0 +1,16 @@
+.movieList {
+    margin-left: 16px;
+    margin-bottom: 100px;
+        list-style-type: "💙 ";
+}
+
+.item::marker {
+    color: #0026ff;
+    font-size: 20px;
+
+}
+
+.item {
+    font-size: 18px;
+    margin-bottom: 6px;
+}

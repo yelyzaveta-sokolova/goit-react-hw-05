@@ -1,0 +1,44 @@
+.movieInfo {
+    display: flex;
+    gap: 20px;
+}
+
+.detailsBtn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #1879b1;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 10px;
+}
+
+.detailsBtn:hover {
+    background-color:#209ce4;
+}
+
+.moviePhoto{
+    width: 560px;
+    height: 600px;
+}
+
+.detailTitle{
+color: rgb(0, 102, 255);
+}
+
+.secondTitle{
+    color: #209ce4;
+}
+
+.detailText{
+    font-size: 18px;
+    color: rgb(106, 178, 241);
+}
+
+.detailsList{
+    list-style-type: "🦴 ";
+}
